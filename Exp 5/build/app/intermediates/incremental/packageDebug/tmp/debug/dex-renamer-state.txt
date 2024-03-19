@@ -1,0 +1,4 @@
+#Tue Mar 19 21:45:43 IST 2024
+base.0=D\:\\27-Yashas-MAD_PWA\\Exp 5 - FireBase Authentication\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
